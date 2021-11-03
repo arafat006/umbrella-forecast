@@ -3,7 +3,7 @@
 This app can say if you need to take an umbrella or not with you before going outside.
 It shows chances of raining and a wise decision of taking umbrella.
 
-#### App Link: https://drive.google.com/file/d/1zswuTsqwrw4Wxd4eutcLfOweDS0XVZG9/view?usp=sharing
+#### App Link: https://drive.google.com/file/d/1j6KJgiji2FgOP7y3x_3lZy6T6l4q5uAQ/view?usp=sharing
 
 ## App UI
 
